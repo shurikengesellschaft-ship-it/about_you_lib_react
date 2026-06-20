@@ -1,0 +1,86 @@
+@import url('https://googleapis.com');
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: Inter, "Inter Fallback", sans-serif;
+}
+
+a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+.oir3jf {
+  max-width: 1800px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+}
+
+@media only screen and (max-width: 1023px) {
+  .oir3jf {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+
+@media only screen and (min-width: 1280px) {
+  .oir3jf {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}

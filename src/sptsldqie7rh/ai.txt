@@ -1,0 +1,6 @@
+<ul data-testid='backgroundSlider' className='yrt1j'>
+</ul>
+<ul data-testid='sliderContent' className='sqo2j'>
+</ul>
+
+look I have these to uls and I want the first position absolute set as background and the second set as the main slider
