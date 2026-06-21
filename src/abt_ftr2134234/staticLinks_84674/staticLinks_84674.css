@@ -20,26 +20,27 @@
 }
 
 .i345rjrk {
-    list-style-type: none;
-    padding: 0;
     margin-top: .5rem;
     display: grid;
     grid-template-rows: auto;
-    -ms-grid-gap: 5px;
     grid-gap: 5px;
     width: 100%;
     grid-template-columns: repeat(auto-fill, minmax(calc((100% - (var(--grid-columns) - 1) * 5px) / var(--grid-columns)), 1fr));
     /* margin-bottom: 1.5rem; */
 }
 
+.lgbm44k {
+     --grid-columns: 2;
+}
+
 @media only screen and (min-width: 1024px) {
-    .i345rjrk {
+    .lgbm44k {
         --grid-columns: 3;
     }
 }
 
 @media only screen and (min-width: 1280px) {
-    .i345rjrk {
+    .lgbm44k {
         --grid-columns: 4;
     }
 }

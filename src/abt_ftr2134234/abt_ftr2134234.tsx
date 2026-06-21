@@ -3,6 +3,9 @@ import { PaymentProviders_84373 } from './paymentProvers_873467/paymentProvers_8
 import { UspFooter_8484 } from './uspFooter_9847834/uspFooter_9847834'
 import { Newsletter_8473 } from './newsletter_8473/newsletter_8473'
 import { StaticLinks_84674 } from './staticLinks_84674/staticLinks_84674'
+import { SiteContacts_7849 } from './siteContacts_7849/siteContacts_7849'
+import { LegalLinks } from './legalLinks_8490/legalLinks_8490'
+
 
 
 export const Footer_9339 = () => {
@@ -23,14 +26,10 @@ export const Footer_9339 = () => {
                 <div className='o555urgt'></div>
             </div>
             <div data-testid='flexible-sections'>
-                <nav data-testid='siteContacts'>
-                    <div>
-                        <a href="#"></a>
-                    </div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                </nav>
+                <SiteContacts_7849 />
+            </div>
+            <div data-testid='legal-links'>
+                <LegalLinks />
             </div>
         </footer>
     )

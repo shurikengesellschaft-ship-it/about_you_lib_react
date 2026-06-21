@@ -6,7 +6,7 @@ export const StaticLinks_84674 = () => {
             <section className='ptj567k'>
                 <div>
                     <div className='kt1ij'>Категории за мъже</div>
-                    <menu className='i345rjrk'>
+                    <div className='i345rjrk lgbm44k'>
                         <a href="#">Сака</a>
                         <a href="#">Мъжки обувки Adidas Originals</a>
                         <a href="#">Футболни обувки</a>
@@ -26,11 +26,11 @@ export const StaticLinks_84674 = () => {
                         <a href="#">Ризи</a>
                         <a href="#">Панталони за мъже</a>
                         <a href="#">Мъжки дънки</a>
-                    </menu>
+                    </div>
                 </div>
                 <div>
                     <div className='kt1ij'>Категории за мъже</div>
-                    <menu className='i345rjrk'>
+                    <div className='i345rjrk lgbm44k'>
                         <a href="#">Jack & Jones</a>
                         <a href="#">Under Armour</a>
                         <a href="#">DIESEL</a>
@@ -51,7 +51,7 @@ export const StaticLinks_84674 = () => {
                         <a href="#">HUGO</a>
                         <a href="#">Petrol Industries</a>
                         <a href="#">Tommy Jeans</a>
-                    </menu>
+                    </div>
                 </div>
             </section>
         </nav>
