@@ -1,0 +1,47 @@
+.jdjs3as {
+    height: 32px;
+    background-color: #f5f5f5;
+}
+
+.ks923g {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.lco3 {
+    color: #434343;
+    font-size: .625rem;
+    border: solid #D9D9D9;
+    border-width: 0 1px;
+    display: flex;
+    align-items: center;
+}
+
+.jdjikd93k {
+    display: flex;
+    align-items: center;
+    color: #434343;
+    padding: 0 10px;
+    gap: 4px;
+    height: 100%;
+}
+
+.djfbhe93a {
+    width: 16px;
+    height: 16px;
+    background: #f9ff00;
+    border-radius: 3px;
+}
+
+.fj834 {
+    border-left: 1px solid #D9D9D9;
+}
+
+.sjs93j {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
