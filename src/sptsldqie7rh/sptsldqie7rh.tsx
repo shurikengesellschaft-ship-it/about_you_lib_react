@@ -28,16 +28,6 @@ import JustCavaliTShirtTiger from '../assets/slide3/jCTShirtTiger094kdk.webp'
 import JustCavaliTShirtSlogan from '../assets/slide3/jCTShirtSlogan948ikd.avif'
 
 
-interface SliderProps {
-    wallpaper: string,
-    style: {
-        '--ws8nke7-0': string,
-        '--ws8nke7-1': string,
-        '--ws8nke7-2': string, 
-        '--ws8nke7-3': string
-    }
-}
-
 const first = {
     '--ws8nke7-0': `url(${FerrarriBackground})`,
     '--ws8nke7-1': '#6d0b12',
