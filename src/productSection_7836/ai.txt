@@ -1,0 +1,4 @@
+ok I need a flex box with elements (that are not shrinked) and I need them to be overflox-y: hidden
+
+
+| element 1 | element 2 | element 3 | element 4 | ele| 
