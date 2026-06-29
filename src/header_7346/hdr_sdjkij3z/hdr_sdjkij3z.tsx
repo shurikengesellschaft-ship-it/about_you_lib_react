@@ -8,7 +8,7 @@ import Bskvocmlk3rokdf from './svgexport-10.svg'
 export default function Header_0043() {
     return (
         <div data-testid="headerTopRowContainer" className="jdfji39">
-            <section className="jrhrk oir3jf">
+            <section className="oir3jf">
                 <div data-testid="genderSwitch" className="urnf943jix">
                     <a href="#" className="iurjfnj94jdcvb">Жени</a>
                     <a href="#" className="iurjfnj94jdcvb" data-active="true">Мъже</a>

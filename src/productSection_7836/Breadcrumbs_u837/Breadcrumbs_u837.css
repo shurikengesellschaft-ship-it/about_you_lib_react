@@ -1,0 +1,30 @@
+.btig345kj {
+    margin-bottom: .25rem;
+}
+
+.it345j {
+    display: inline;
+    color: #434343;
+    font-size: .75rem;
+    font-weight: 500;
+    line-height: 1.6;
+    text-decoration: none;
+    letter-spacing: .4px;
+}
+
+.it345j:last-child {
+    font-weight: 600;
+}
+
+.k55rtj {
+    cursor: pointer;
+}
+
+.pyu24tgyju {
+    display: inline-block;
+    fill: #434343;
+    height: 13px;
+    margin: 0 4px;
+    transform: translateY(3px);
+    width: 13px;
+}

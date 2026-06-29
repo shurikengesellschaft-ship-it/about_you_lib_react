@@ -1,43 +1,39 @@
-import IcArrowR from './ic-arrow-right-Bv-Mt_7834.svg'
 import './productSection_7836.css'
-import IcShirt from './ic-shirt-CpvG.svg'
-import IcSort from './ic-sort-Cjfv.svg'
-import IcDropdown from './ic-dropdown-Bf0d.svg'
+import { Breadcrumbs_u837 } from './Breadcrumbs_u837/Breadcrumbs_u837'
+import { CategoryHeader_6736 } from './CategoryHeader_6736/CategoryHeader_6736'
+import { FilterBar_084 } from './FilterBar_084/FilterBar_084'
+import { ProductTile_7685 } from './productTile_7685/productTile_7685'
+import just_cv_3474 from './assets/just_cv_3474.avif'
+import ax_9498 from './assets/ax_98478jkfr40.avif'
+import ck_4374 from './assets/ck_9498ikrk344.avif'
+import hugo_03478 from './assets/hugo_0948ktjk490.avif'
 
 export const ProductSection_7836 = () => {
     return (
         <section data-testid='productSection' className='urjd567fh'>
-            <ul data-testid='Breadcrumbs' className='btig345kj'>
-                <li className='it345j'>
-                    Man
-                </li>
-                <li className='it345j'>
-                    <img src={IcArrowR} alt="" className='pyu24tgyju' />
-                    Clothing
-                </li>
-                <li className='it345j'>
-                    <img src={IcArrowR} alt="" className='pyu24tgyju' />
-                    T-Shirt
-                </li>
-            </ul>
-            <header data-testid='categoryHeader' className='i77th'>
-                <div className='jk345th'>
-                    <h1 className='ir345j'>T-Shirts <small>for men</small></h1>
-                    <span className='bo456y'>400</span>
-                </div>
-                <div data-testid='sortingAndViewWrapper' className='ikt45j'>
-                    <button className='ptj345ik'>
-                        <img src={IcShirt} alt="" className='yr234gh' />
-                        View
-                        <img src={IcDropdown} alt="" />
-                    </button>
-                    <button className='ptj345ik'>
-                        <img src={IcSort} alt="" className='yr234gh' />
-                        Sort
-                        <img src={IcDropdown} alt="" />
-                    </button>
-                </div>
-            </header>
+            <Breadcrumbs_u837 />
+            <CategoryHeader_6736 />
+            <FilterBar_084 />
+            <section data-testid='products'>
+                <ul data-testid='tileGrid' className='zjd567e kr4j'>
+                    <ProductTile_7685 tileImage={just_cv_3474} />
+                    <ProductTile_7685 tileImage={ax_9498} />
+                    <ProductTile_7685 tileImage={ck_4374} />
+                    <ProductTile_7685 tileImage={hugo_03478} />
+                    <ProductTile_7685 tileImage={just_cv_3474} />
+                    <ProductTile_7685 tileImage={ax_9498} />
+                    <ProductTile_7685 tileImage={ck_4374} />
+                    <ProductTile_7685 tileImage={hugo_03478} />
+                    <ProductTile_7685 tileImage={just_cv_3474} />
+                    <ProductTile_7685 tileImage={ax_9498} />
+                    <ProductTile_7685 tileImage={ck_4374} />
+                    <ProductTile_7685 tileImage={hugo_03478} />
+                    <ProductTile_7685 tileImage={just_cv_3474} />
+                    <ProductTile_7685 tileImage={ax_9498} />
+                    <ProductTile_7685 tileImage={ck_4374} />
+                    <ProductTile_7685 tileImage={hugo_03478} />
+                </ul>
+            </section>
         </section>
     )
 }

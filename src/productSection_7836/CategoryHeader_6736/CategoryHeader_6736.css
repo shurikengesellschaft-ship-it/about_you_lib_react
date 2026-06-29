@@ -1,0 +1,47 @@
+.i77th {
+    margin-bottom: 20px;
+    padding: 0.3rem 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: start;
+    border-bottom: 1px solid rgb(217, 217, 217);
+}
+
+.jk345th {
+    display: flex;
+    align-items: center;
+}
+
+.ir345j {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    line-height: 1.5;
+}
+
+.ir345j>small {
+    font-size: 0.875rem;
+    font-weight: normal;
+    color: rgb(67, 67, 67);
+}
+
+.bo456y {
+    color: rgb(67, 67, 67);
+    background-color: rgb(245, 245, 245);
+    margin-left: 5px;
+    vertical-align: 3px;
+    height: 24px;
+    padding-inline: 12px;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+    font-size: 0.625rem;
+    font-weight: 600;
+}
+
+.ikt45j {
+    display: flex;
+    gap: 0.8rem;
+}

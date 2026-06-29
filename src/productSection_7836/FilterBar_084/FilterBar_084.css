@@ -1,0 +1,58 @@
+.pt54k {
+    position: relative;
+    margin-bottom: 1.875rem;
+}
+
+.ur345h {
+    display: flex;
+    gap: .75rem;
+    flex-direction: row;
+    overflow-x: hidden;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+}
+
+.jrjh3ert {
+    flex: 0 0 auto;
+}
+
+.cgh4df {
+    display: flex;
+    background: rgb(255, 255, 255);
+    box-shadow: rgb(255, 255, 255) -20px 0px 10px 10px;
+    border-left: 1px solid rgb(217, 217, 217);
+    position: absolute;
+    padding: 10px 16px;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+    gap: 5px;
+}
+
+.ir567j {
+    color: #434343;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+.r777h {
+    width: 1rem;
+    height: 1rem;
+    opacity: 0.2;
+    transform: rotate(450deg);
+    transition: .3s;
+}
+
+.lt567rj {
+    transform: rotate(-450deg);
+}
+
+.cgh4df:hover > .r777h {
+    opacity: 1;
+}
+
+.cgh4df:hover > .ir567j {
+    transform: translateY(-1px);
+}

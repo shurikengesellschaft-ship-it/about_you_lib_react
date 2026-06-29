@@ -51,7 +51,7 @@ const third = {
 } as React.CSSProperties;
 
 export const SpotlightSlider_0057 = () => {
-    const [card, setCard] = useState(2) // this has to be 0
+    const [card, setCard] = useState(0)
 
     const sliderRef = useRef<HTMLUListElement>(null)
 console.log(JustCavaliCover)

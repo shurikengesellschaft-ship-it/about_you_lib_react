@@ -4,7 +4,7 @@ import Srcorkf4fro from './svgexport-13.svg'
 export const HeaderNav_053 = () => {
     return (
         <div data-testid="headerNavigation" className='itnjfg94jrk'>
-            <section className="jrhrk oir3jf">
+            <section className="oir3jf">
                 <ul data-testid="topCategoriesContainer" className='rik5fcmj'>
                     <li data-show-arrow="false" data-testid="Header_navigation_list_item" className="orjf03ijrcmv">
                         <a href="#" className="ie3o0">
@@ -84,7 +84,7 @@ export const HeaderNav_053 = () => {
                         </a>
                     </li>
                 </ul>
-                <div data-testid="searchBar">
+                <div data-testid="searchBar" className='hr4j'>
                     <img src={Srcorkf4fro} alt="" className='irj94g' />
                 </div>
             </section>
