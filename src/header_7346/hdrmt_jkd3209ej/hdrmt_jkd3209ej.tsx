@@ -9,7 +9,7 @@ export default function HeaderMetBar_001() {
             <section className="ks923g oir3jf">
                 <div className="lco3">
                     <a data-testid="ayOutletLink-metabar" href="#" className="jdjikd93k">
-                        <img src={OutletSVG} alt="" />
+                        <img src={OutletSVG} alt="outlet_k3438723" className='tuh2f' />
                         Outlet
                     </a>
                     <a data-testid="metaBarItem_CONTACT" href="#" className="jdjikd93k fj834">

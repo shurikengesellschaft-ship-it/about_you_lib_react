@@ -1,0 +1,46 @@
+.irj4j {
+    position: relative;
+    height: 50px;
+    background: #0E9A7B;
+    overflow: hidden;
+}
+
+.p3erj {
+    position: absolute;
+    top: -50px;
+    left: -45px;
+    width: 100px;
+    height: 100px;
+    opacity: .15;
+}
+
+.ye23g {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 10px;
+}
+
+.irhrh48jdej {
+    display: flex;
+    align-items: center;
+    font-size: .795rem;
+    gap: 10px;
+    padding-inline: 10px;
+}
+
+.m8frh {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.jer5h {
+    filter: brightness(0) invert(1);
+    margin-bottom: 3px;
+}
+
+.wew1e {
+    color: white;
+}

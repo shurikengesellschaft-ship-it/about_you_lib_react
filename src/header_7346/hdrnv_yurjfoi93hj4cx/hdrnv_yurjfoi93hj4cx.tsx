@@ -84,7 +84,7 @@ export const HeaderNav_053 = () => {
                         </a>
                     </li>
                 </ul>
-                <div data-testid="searchBar">
+                <div data-testid="searchBar" className='hr4j'>
                     <img src={Srcorkf4fro} alt="" className='irj94g' />
                 </div>
             </section>
