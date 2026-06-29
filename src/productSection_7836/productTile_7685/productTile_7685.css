@@ -15,14 +15,14 @@
 }
 
 .jrk7k {
-    padding: 5rem;
+    padding: 1.75rem;
     background-color: #f4f4f5;
 }
 
 .prj5k {
     width: 100%;
     aspect-ratio: 3/4;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .kr43j {

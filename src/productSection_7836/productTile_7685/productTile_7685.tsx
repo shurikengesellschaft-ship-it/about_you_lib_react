@@ -1,14 +1,13 @@
 import './productTile_7685.css'
-import just_cv_3474 from '../assets/just_cv_3474.avif'
 import arr_r_8467 from '../assets/ic-arrow-right-Bv-Mt_7834.svg'
 
-export const ProductTile_7685 = () => {
+export const ProductTile_7685 = (props: { tileImage: string }) => {
     return (
         <div data-testid='productTile' className='lrtj4k'>
             <a href="#" className='op3t'>
                 <div data-testid='ImageWrapper' className='ex1c'>
                     <div data-testid='imageFrame' className='jrk7k'>
-                        <img src={just_cv_3474} alt="tileImage" className='prj5k' />
+                        <img src={props.tileImage} alt="tileImage" className='prj5k' />
                     </div>
                     <div data-testid='badgesContainer' className='i1rj'>
                         <div className='jr435sd'>Premium</div>
