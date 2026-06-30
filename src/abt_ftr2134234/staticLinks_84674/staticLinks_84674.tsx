@@ -29,7 +29,7 @@ export const StaticLinks_84674 = () => {
                     </div>
                 </div>
                 <div>
-                    <div className='kt1ij'>Категории за мъже</div>
+                    <div className='kt1ij'>Марки за мъже</div>
                     <div className='i345rjrk lgbm44k'>
                         <a href="#">Jack & Jones</a>
                         <a href="#">Under Armour</a>

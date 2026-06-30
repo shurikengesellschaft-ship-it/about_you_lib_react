@@ -50,19 +50,3 @@
         --grid-template-columns: 4;
     }
 }
-
-.kr4j {
-    margin-top: .5rem;
-}
-
-@media only screen and (min-width: 1024px) {
-    .kr4j {
-        padding-inline: 2rem;
-    }
-}
-
-@media only screen and (min-width: 1280px) {
-    .kr4j {
-        padding-inline: 4rem;
-    }
-}

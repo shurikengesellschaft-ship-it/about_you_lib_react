@@ -6,7 +6,7 @@ import BG from './bgsdjf98328.png'
 export default function HeaderMetBar_001() {
     return (
         <div data-testid="headerMetaBar" className="jdjs3as">
-            <section className="ks923g oir3jf">
+            <section className="oir3jf jrhrk ks923g">
                 <div className="lco3">
                     <a data-testid="ayOutletLink-metabar" href="#" className="jdjikd93k">
                         <img src={OutletSVG} alt="outlet_k3438723" className='tuh2f' />

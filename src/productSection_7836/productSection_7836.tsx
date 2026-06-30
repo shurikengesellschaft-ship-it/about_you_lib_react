@@ -15,7 +15,7 @@ export const ProductSection_7836 = () => {
             <CategoryHeader_6736 />
             <FilterBar_084 />
             <section data-testid='products'>
-                <ul data-testid='tileGrid' className='zjd567e kr4j'>
+                <ul data-testid='tileGrid' className='zjd567e jrhrk'>
                     <ProductTile_7685 tileImage={just_cv_3474} />
                     <ProductTile_7685 tileImage={ax_9498} />
                     <ProductTile_7685 tileImage={ck_4374} />
