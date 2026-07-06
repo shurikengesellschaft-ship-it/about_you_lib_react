@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+This is just a little warm-up for you to see how do that thing over here!
+
 How to download Project:
 
     git pull <branch> https://github.com/shurikengesellschaft-ship-it/about_you_lib_react
