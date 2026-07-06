@@ -1,6 +1,6 @@
 # About You Library for React
 
-This is just a little warm-up for you to see how do that thing over here! The "workflow" as the Rival Companies like to call it. 
+This is just a little warm-up for you to see how we do that thing over here! The "workflow" as the Rival Companies like to call it. 
 We cannot really show you our Proffesional Work because it is Internal to our Friendly-Organisations but for our Clients we are switching to second gear and it gets Messy!
 
 How to download Project:
