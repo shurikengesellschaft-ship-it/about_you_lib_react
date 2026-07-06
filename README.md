@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# About You Library for React
 
 This is just a little warm-up for you to see how do that thing over here!
 
